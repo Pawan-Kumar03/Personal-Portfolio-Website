@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-Website/static/css/main.ba51fa63.css",
-    "main.js": "/Personal-Portfolio-Website/static/js/main.6ddd3b09.js",
+    "main.js": "/Personal-Portfolio-Website/static/js/main.9a1f9225.js",
     "static/media/DisneyHotStar.PNG": "/Personal-Portfolio-Website/static/media/DisneyHotStar.40cb740dffe1b33a3472.PNG",
     "static/media/CV.pdf": "/Personal-Portfolio-Website/static/media/CV.cc4472c4a5603a52c207.pdf",
     "static/media/Img4.jpg": "/Personal-Portfolio-Website/static/media/Img4.51aab6cc2553602482b5.jpg",
@@ -46,10 +46,10 @@
     "static/media/TicTacToe.PNG": "/Personal-Portfolio-Website/static/media/TicTacToe.e141fec3925e49920944.PNG",
     "index.html": "/Personal-Portfolio-Website/index.html",
     "main.ba51fa63.css.map": "/Personal-Portfolio-Website/static/css/main.ba51fa63.css.map",
-    "main.6ddd3b09.js.map": "/Personal-Portfolio-Website/static/js/main.6ddd3b09.js.map"
+    "main.9a1f9225.js.map": "/Personal-Portfolio-Website/static/js/main.9a1f9225.js.map"
   },
   "entrypoints": [
     "static/css/main.ba51fa63.css",
-    "static/js/main.6ddd3b09.js"
+    "static/js/main.9a1f9225.js"
   ]
 }
