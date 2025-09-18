@@ -1,0 +1,38 @@
+.container.certificates__container {
+    width: 50%;
+}
+
+.client__avatar img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.certificate {
+    background: var(--color-bg-variant);
+    padding: 1rem;
+    border-radius: 1rem;
+    user-select: none;
+}
+.swiper-pagination-clickable .swiper-pagination-bullet{
+    background: var(--color-primary);
+}
+
+
+/* Media Queries */
+/* For Medium Device */
+@media screen and (max-width:1024px) {
+    .container.certificates__container{
+        width: 60%;
+    }
+}
+
+/* For Small Device */
+@media screen and (max-width:600px) {
+    .container.certificates__container{
+        width: var(--color-width-sm);
+    }
+    .client__review{
+        width: var(--color-width-sm);
+    }
+}
